@@ -1,0 +1,17 @@
+---
+title: "Transcriptomics - Practical Launch"
+author: "Lucy Sinke"
+date: "9/29/2020"
+output: html_document
+---
+
+Load packages for the practical
+
+```{r}
+library(DESeq2)
+library(biomaRt)
+library(pheatmap)
+library(ggplot2)
+library(enrichR)
+```
+
