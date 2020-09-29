@@ -13,6 +13,7 @@ library(biomaRt)
 library(pheatmap)
 library(ggplot2)
 library(enrichR)
+library(limma)
 ```
 
 Load data for the practical
