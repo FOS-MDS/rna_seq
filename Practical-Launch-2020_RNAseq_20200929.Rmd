@@ -15,3 +15,9 @@ library(ggplot2)
 library(enrichR)
 ```
 
+Load data for the practical
+
+```{r}
+load('./data/RNASeq_PairedOA_FOS.Rdata')
+```
+
